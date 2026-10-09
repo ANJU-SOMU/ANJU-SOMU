@@ -9,7 +9,7 @@ I bridge the gap between complex data systems and human business needs. With a s
 
 | Data Transformation | Business Intelligence |  Data Querying & Scripting | 
 | :--- | :--- | :--- |
-| Excel & Power Query | Power BI | SQL |
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  |    <img width="75" height="20" alt="Power_Bi-F2C811" src="https://github.com/user-attachments/assets/437ffdbf-06c5-4c78-aa77-d6ab89aff231" /> | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
 
