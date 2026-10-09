@@ -7,9 +7,9 @@ I bridge the gap between complex data systems and human business needs. With a s
 
 ### 🛠️ Tech Stack & Tools
 
-| Data Querying & Scripting | Business Intelligence | Data Transformation |
+| Data Transformation | Business Intelligence |  Data Querying & Scripting | 
 | :--- | :--- | :--- |
-| ![Excel](https://shields.io) | ![Power BI](https://shields.io) | ![Power Query](https://shields.io) | ![SQL](https://shields.io)!|
+| Excel & Power Query | Power BI | SQL |
 
 ---
 
